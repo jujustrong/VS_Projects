@@ -16,7 +16,7 @@ class Dict_create(dict):
             if len(card_num) != 16:
                 print("Please enter a valide card number")
                 i = True
-            if exp_date 
+                
         
 
 def my_cart():
